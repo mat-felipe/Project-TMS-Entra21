@@ -3,29 +3,9 @@
 
 ## Team Roxo:  
 
-- Kalil J. Fakhouri - Git
-
-<a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-- Cristian Daniel Baade Schauffert - Main
-  
-<a href="https://www.linkedin.com/in/cristian-schauffert-a818ba238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:schauffertcristian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-
-
-- Mateus Felipe - (CR)UD
+- Mateus Felipe
 
 <a href="https://www.linkedin.com/in/mateusgoettems/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:mateusgoettems@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-
-- Bruno Roberto Pereira da Silva - CR(UD)
-
-<a href="https://www.linkedin.com/in/bruno-roberto-49941a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:brunorobertopds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- 
-
-
 
 ### Objetivo do projeto:
 
